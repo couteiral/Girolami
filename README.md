@@ -8,6 +8,5 @@ This is a simple implementation of [Girolami's method](http://pubs.acs.org/doi/a
 | __Std. dev.__     | 0.095 g·cm-3  |
 | __Maximum error__  | 1.479 g·cm-3  |
 
-[Distribution of error][plot]
+![Distribution of error](figure.png)
 
-[plot]: https://raw.githubusercontent.com/couteiral/Girolami/master/figure.svg
